@@ -1,4 +1,4 @@
-﻿namespace Nuka.SDK.SpecificationModel
+﻿namespace Nuka.SDK.SpecificationPattern
 {
     public static class Extensions
     {

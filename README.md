@@ -1,4 +1,4 @@
-# Nuka.SDK.SpecificationModel
+# Nuka.SDK.SpecificationPattern
 
 Specification Pattern For .Net Core
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using Xunit;
 
-namespace Nuka.SDK.SpecificationModel.Test
+namespace Nuka.SDK.SpecificationPattern.Test
 {
     public class CollectionTest
     {

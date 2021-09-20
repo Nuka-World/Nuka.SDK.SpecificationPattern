@@ -4,6 +4,10 @@
         <TargetFramework>net5.0</TargetFramework>
 
         <IsPackable>false</IsPackable>
+
+        <AssemblyName>Nuka.SDK.SpecificationPattern.Test</AssemblyName>
+
+        <RootNamespace>Nuka.SDK.SpecificationPattern.Test</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
@@ -20,7 +24,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Nuka.SDK.SpecificationModel\Nuka.SDK.SpecificationModel.csproj" />
+      <ProjectReference Include="..\Nuka.SDK.SpecificationPattern\Nuka.SDK.SpecificationPattern.csproj" />
     </ItemGroup>
 
 </Project>

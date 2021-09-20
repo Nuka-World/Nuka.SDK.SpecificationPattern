@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace Nuka.SDK.SpecificationModel
+namespace Nuka.SDK.SpecificationPattern
 {
     public abstract class SpecificationBase<T> : ISpecification<T>
     {

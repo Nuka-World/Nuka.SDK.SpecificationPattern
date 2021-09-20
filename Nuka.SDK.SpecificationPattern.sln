@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuka.SDK.SpecificationModel", "Nuka.SDK.SpecificationModel\Nuka.SDK.SpecificationModel.csproj", "{6F3C8896-03EC-4A14-8116-86BBDAFF43AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuka.SDK.SpecificationPattern", "Nuka.SDK.SpecificationPattern\Nuka.SDK.SpecificationPattern.csproj", "{6F3C8896-03EC-4A14-8116-86BBDAFF43AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuka.SDK.SpecificationModel.Test", "Nuka.SDK.SpecificationModel.Test\Nuka.SDK.SpecificationModel.Test.csproj", "{859FD796-EC0A-462C-A198-A91514F48D5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nuka.SDK.SpecificationPattern.Test", "Nuka.SDK.SpecificationPattern.Test\Nuka.SDK.SpecificationPattern.Test.csproj", "{859FD796-EC0A-462C-A198-A91514F48D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

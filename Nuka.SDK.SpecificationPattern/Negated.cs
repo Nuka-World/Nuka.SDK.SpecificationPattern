@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace Nuka.SDK.SpecificationModel
+namespace Nuka.SDK.SpecificationPattern
 {
     public class Negated<T> : SpecificationBase<T>
     {
